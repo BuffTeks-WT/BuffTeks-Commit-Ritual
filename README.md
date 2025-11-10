@@ -72,6 +72,7 @@ buffteks-commit-ritual/
 | Name         | GitHub                                       | Join Date  |
 | ------------ | -------------------------------------------- | ---------- |
 | Seth Crump | [@scrump05](https://github.com/scrump05) | 2025-10-28 |
+| Benjamin Mosley | [@benny-ui-ux](https://github.com/benny-ui-ux) | 2025-11-10 |
 
 ---
 
